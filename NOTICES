@@ -1,0 +1,19 @@
+========================================================================
+==  NOTICE file for use with the Apache License, Version 2.0          ==
+==  for the Promise distribution                                      ==
+========================================================================
+
+Promise Framework
+Copyright 2015 Assert Developments
+
+This product uses software developed at
+The Apache Software Foundation (http://www.apache.org/).
+
+This product uses JUnit (http://www.junit.org) which is
+licensed under Common Public License Version 1.0. 
+
+This product uses Maven (http://maven.apache.org) which is
+licensed under Apache License Version 2.0. 
+
+This product uses Log4J (http://logging.apache.org/log4j) which is
+licensed under Apache License Version 2.0.
